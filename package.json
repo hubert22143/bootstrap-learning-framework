@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-practice-repo",
+  "version": "1.0.0",
+  "description": "This repository will be dedicated to document my short journey of learning the basics in Bootstrap to gain insights into the possibilities of this framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack && gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.0.0",
+    "css-loader": "^6.10.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.1.0",
+    "html-webpack-plugin": "^5.6.0",
+    "sass": "^1.71.1",
+    "sass-loader": "^14.1.1",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
